@@ -6,9 +6,15 @@ Conversion was done using [JS2Coffee](http://js2coffee.org/), next to no testing
 
 Clustering support does not work at the moment, I haven't had a need for it so far.
 
+The docs are all still in javascript, I don't plan on changing them but pull requests are welcome!
+
+
+
+### Official Hackathon Starter Docs
+
 
 ![Alt](https://lh4.googleusercontent.com/-PVw-ZUM9vV8/UuWeH51os0I/AAAAAAAAD6M/0Ikg7viJftQ/w1286-h566-no/hackathon-starter-logo.jpg)
-Hackathon Starter [![Dependency Status](https://david-dm.org/sahat/hackathon-starter.png?theme=shields.io)](https://david-dm.org/sahat/hackathon-starter) [![Build Status](https://travis-ci.org/sahat/hackathon-starter.png)](https://travis-ci.org/sahat/hackathon-starter)
+Hackathon Starter
 =================
 A boilerplate for **Node.js** web applications.
 
